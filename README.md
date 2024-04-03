@@ -1,16 +1,9 @@
 # UNO Picker APP
 
-A new Flutter project.
+Flutter APP Projeect 1 by Wiridlangit (5027211064)
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This project serves as a foundational learning experience for building Flutter apps. The app includes basic widgets and features. Users can select UNO cards based on their colors and view them individually.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to explore the cards and enjoy the UNO experience!
