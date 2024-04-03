@@ -1,4 +1,4 @@
-# widgets_app
+# UNO Picker APP
 
 A new Flutter project.
 
